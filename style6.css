@@ -1,0 +1,6 @@
+#team6 { min-height:100vh; background:#e5f5ff; text-align:center; padding-top:80px; }
+#team6 .box { width:70%; margin:auto; padding:20px; background:white; border:2px solid #2186b5; }
+#team6 h1 { color:#145a79; font-size:40px; }
+#team6 .label { color:#2186b5; font-weight:bold; }
+#team6 img { width:240px; height:150px; border:2px solid #2186b5; }
+#team6 a { color:#c04a00; font-weight:bold; }
